@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name's Stream Hub</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            color: white;
+            background-color: black;
+            margin: 0;
+            padding: 0;
+        }
+        header, footer {
+            background-color: navy;
+            color: white;
+            padding: 1em;
+            text-align: center;
+        }
+        section {
+            padding: 1em;
+            margin: 0.5em;
+            background-color: #333;
+        }
+        h1, h2 {
+            color: navy;
+        }
+        p {
+            margin: 0.5em 0;
+        }
+        .content {
+            padding: 20px;
+            background-color: white;
+            color: black;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Your Name's Stream Hub</h1>
+    </header>
+    <section class="content">
+        <h2>About Me</h2>
+        <p>Tell the world a little about yourself here.</p>
+    </section>
+    <section class="content">
+        <h2>Streaming Schedule</h2>
+        <p>Share your streaming schedule. For example:</p>
+        <ul>
+            <li>Mondays and Wednesdays from 7 PM to 10 PM</li>
+            <li>Saturdays from 10 AM to 1 PM</li>
+        </ul>
+    </section>
+    <section class="content">
+        <h2>Computer Setup</h2>
+        <p>Detail your computer and streaming gear setup.</p>
+    </section>
+    <footer>
+        <p>Contact me at: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+    </footer>
+</body>
+</html>
+
